@@ -5,3 +5,4 @@ GraduationYear=2025
 myfavteam = "software team"
 myschool = "EGC"
 Country="EGYPT"
+City = "Alexandria"
