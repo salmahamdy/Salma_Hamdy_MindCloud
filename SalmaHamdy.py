@@ -7,3 +7,4 @@ myschool = "EGC"
 //geographic info
 Country="EGYPT"
 City = "Alexandria"
+favcolor="ligthblue"
