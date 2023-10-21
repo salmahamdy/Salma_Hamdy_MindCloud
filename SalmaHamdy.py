@@ -3,3 +3,4 @@ age = 21
 department = "Communication and electronics"
 GraduationYear=2025
 myfavteam = "software team"
+myschool = "EGC"
